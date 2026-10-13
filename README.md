@@ -14,7 +14,7 @@ This repository covers 10 comprehensive lab experiments ranging from basic Entit
 
 | Lab | Experiment Title / Aim | Status | Link |
 |:---:|:---|:---:|:---|
-| **1** | **ER Modeling:** Design an ER diagram for an Indian e-commerce platform with complex entities, relationships, and participation constraints. | ✅ Completed | [View Lab 1](./Lab%201/Readme.md) |
+| **1** | **ER Modeling:** Design an ER diagram for an Indian e-commerce platform with complex entities, relationships, and participation constraints. | ✅ Completed |  [View Lab 1](./Lab%201/Readme.md) |
 | **2** | **Relational Schema & DDL:** Convert ER diagram to relational schema with primary keys, foreign keys, and integrity constraints. | ✅ Completed | [View Lab 2](./Lab%202/Readme.md) |
 | **3** | **Basic SQL & Aggregation:** Create schema, insert 30+ records, and demonstrate SELECT, GROUP BY, HAVING, and CASE. | ✅ Completed | [View Lab 3](./Lab%203/Readme.md) |
 | **4** | **Joins & Subqueries:** Write queries using INNER, LEFT, self, and 3-way joins, plus correlated subqueries and set operations. | ✅ Completed | [View Lab 4](./Lab%204/Readme.md) |
