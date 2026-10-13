@@ -23,3 +23,4 @@ Develop a `transfer_employee` procedure that safely moves employees between depa
 
 ## 🎓 Learning Outcomes
 Understanding of how to encapsulate business logic within the database and automate data auditing.
+[🔗 Open Experiment 6](./Experiment%206)
