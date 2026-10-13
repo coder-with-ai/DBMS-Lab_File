@@ -14,12 +14,12 @@ This repository covers 10 comprehensive lab experiments ranging from basic Entit
 
 | Lab | Experiment Title / Aim | Status | Link |
 |:---:|:---|:---:|:---|
-| **1** | **ER Modeling:** Design an ER diagram for an Indian e-commerce platform with complex entities, relationships, and participation constraints. | ✅ Completed | [View Lab 1](./Lab%201/README.md) |
-| **2** | **Relational Schema & DDL:** Convert ER diagram to relational schema with primary keys, foreign keys, and integrity constraints. | ✅ Completed | [View Lab 2](./Lab%202/README.md) |
-| **3** | **Basic SQL & Aggregation:** Create schema, insert 30+ records, and demonstrate SELECT, GROUP BY, HAVING, and CASE. | ✅ Completed | [View Lab 3](./Lab%203/README.md) |
-| **4** | **Joins & Subqueries:** Write queries using INNER, LEFT, self, and 3-way joins, plus correlated subqueries and set operations. | ✅ Completed | [View Lab 4](./Lab%204/README.md) |
-| **5** | **Views & CTEs:** Create SQL views for summary/hierarchy and implement a recursive CTE for reporting chains. | ✅ Completed | [View Lab 5](./Lab%205/README.md) |
-| **6** | **Stored Procedures & Triggers:** Create `transfer_employee` procedure with validation, and triggers for salary audit logging. | ✅ Completed | [View Lab 6](./Lab%206/README.md) |
+| **1** | **ER Modeling:** Design an ER diagram for an Indian e-commerce platform with complex entities, relationships, and participation constraints. | ✅ Completed | [View Lab 1](./Lab%201/Readme.md) |
+| **2** | **Relational Schema & DDL:** Convert ER diagram to relational schema with primary keys, foreign keys, and integrity constraints. | ✅ Completed | [View Lab 2](./Lab%202/Readme.md) |
+| **3** | **Basic SQL & Aggregation:** Create schema, insert 30+ records, and demonstrate SELECT, GROUP BY, HAVING, and CASE. | ✅ Completed | [View Lab 3](./Lab%203/Readme.md) |
+| **4** | **Joins & Subqueries:** Write queries using INNER, LEFT, self, and 3-way joins, plus correlated subqueries and set operations. | ✅ Completed | [View Lab 4](./Lab%204/Readme.md) |
+| **5** | **Views & CTEs:** Create SQL views for summary/hierarchy and implement a recursive CTE for reporting chains. | ✅ Completed | [View Lab 5](./Lab%205/Readme.md) |
+| **6** | **Stored Procedures & Triggers:** Create `transfer_employee` procedure with validation, and triggers for salary audit logging. | ✅ Completed | [View Lab 6](./Lab%206/Readme.md) |
 | **7** | **Normalization:** Normalize a Sales table step-by-step from UNF to 3NF and BCNF, verifying lossless joins. | ⏳ Coming Soon | *Coming Soon* |
 | **8** | **Transactions & Concurrency:** Implement transactions with SAVEPOINT and simulate isolation levels and partial failures. | ⏳ Coming Soon | *Coming Soon* |
 | **9** | **Indexing & Performance:** Create a 5,000-record Railway Booking table and benchmark performance using EXPLAIN and composite indexes. | ⏳ Coming Soon | *Coming Soon* |
