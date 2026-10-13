@@ -22,3 +22,4 @@ Identify core entities such as Customer, Product, Order, OrderItem, Seller, Cate
 
 ## 🎓 Learning Outcomes
 Ability to conceptualize real-world business requirements into a structured conceptual data model using ER diagrams.
+[🔗 Open Experiment 6](./Experiment%201)
