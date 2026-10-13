@@ -21,4 +21,4 @@ Abstract complex queries into views for department summaries and implement a rec
 
 ## 🎓 Learning Outcomes
 Ability to secure/abstract data access using views and navigate tree-structured data natively in SQL.
-[🔗 Open Experiment 6](./Experiment%205)
+[🔗 Open Experiment 5](./Experiment%205)
