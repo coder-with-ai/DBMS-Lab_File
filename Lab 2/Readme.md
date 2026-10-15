@@ -23,4 +23,4 @@ Write SQL scripts to define tables corresponding to the E-commerce ER model. Enf
 
 ## 🎓 Learning Outcomes
 Practical understanding of how to physically implement a conceptual data model into an RDBMS.
-[🔗 Open Experiment 2](./Experiment%202)
+[🔗 Open Practical 2 PDF](./Practical%202.pdf)
