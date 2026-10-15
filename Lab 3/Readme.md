@@ -24,3 +24,4 @@ Design tables for Employees, Departments, and Projects. Populate with at least 3
 ## 🎓 Learning Outcomes
 Proficiency in extracting and summarizing meaningful information from normalized database tables.
 [🔗 Open Experiment 3](./Experiment%203.sql)
+[🔗 View Outputs](./outputs.md)
