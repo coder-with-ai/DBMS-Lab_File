@@ -1,10 +1,25 @@
-# DBMS-Lab_File
-
 # DBMS Lab Experiments Repository
 
-Welcome to my Database Management Systems (DBMS) lab repository. I'm Anuj Saini, and this repository documents my practical SQL and database design coursework from my second year of the B.Tech CSE (AI & ML) program.
+# Database Management Systems (DBMS) Laboratory
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Course-DBMS%20Lab-0052CC?style=for-the-badge&logo=googledatastudio&logoColor=white" alt="Course Badge" />
+  <img src="https://img.shields.io/badge/RDBMS-MySQL%208.0%2B-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE-8A2BE2?style=for-the-badge" alt="Degree Badge" />
+  <img src="https://img.shields.io/badge/Status-Lab%20Practical%20Portfolio-success?style=for-the-badge" alt="Status Badge" />
+</p>
 This repository covers 10 comprehensive lab experiments ranging from basic Entity-Relationship modeling and DDL/DML commands to advanced concepts like recursive CTEs, transaction management, and query optimization. 
+
+## 🎓 Academic Profile & Course Information
+
+| Field | Details |
+| :--- | :--- |
+| **Student Name** | **ANUJ SAINI** |
+| **Course Title** | Database Management Systems Laboratory |
+| **Academic Program** | B.Tech — Computer Science & Engineering |
+| **Academic Term** | Semester 03 |
+| **Primary RDBMS** | MySQL Server 8.0+ / MySQL Workbench |
+
 
 ## 📂 Repository Structure
 <img width="647" height="491" alt="Screenshot 2026-10-14 at 2 55 37 AM" src="https://github.com/user-attachments/assets/800ae210-80d3-4282-8efd-20a24a9a0ef2" />
@@ -35,9 +50,16 @@ git clone https://github.com/coder-with-ai/DBMS-Lab_File.git
  Navigate into the project directory
 cd DBMS-Lab_File
 
-## 👨‍💻 Author
-ANUJ SAINI 
+---
 
+---
+## 📑 Academic Declaration
+
+> **Certification of Original Work:**  
+> I hereby declare that the SQL scripts, relational schemas, ER diagrams, and documentation in this repository represent my practical work for the Database Management Systems Laboratory course. All experiments adhere to institutional academic integrity standards and best database design practices.
+>
+> — ANUJ SAINI   
+> *Department of Computer Science & Engineering*
 ---
 <p align="center">
   ⭐ If you find this repository useful, consider giving it a star!
