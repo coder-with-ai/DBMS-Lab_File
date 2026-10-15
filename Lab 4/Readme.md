@@ -23,4 +23,4 @@ Write advanced queries that combine data from multiple tables simultaneously and
 
 ## 🎓 Learning Outcomes
 Mastery of combining multi-table datasets and understanding how the database engine interprets complex queries.
-[🔗 Open Experiment 4](./Experiment%204)
+[🔗 Open Experiment 4](./Experiment%204.sql)
